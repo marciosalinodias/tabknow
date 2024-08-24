@@ -1,0 +1,24 @@
+{
+  "name": "tabknow",
+  "version": "0.0.1",
+  "description": "Tab News Clone to update knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciosalinodias/tabknow.git"
+  },
+  "author": "Marcio Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marciosalinodias/tabknow/issues"
+  },
+  "homepage": "https://github.com/marciosalinodias/tabknow#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
